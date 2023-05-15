@@ -23,6 +23,21 @@
       <excludeFolder url="file://$MODULE_DIR$/scaffold_2/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/scaffold_2/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/scaffold_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/test_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/text_span/build" />
+      <excludeFolder url="file://$MODULE_DIR$/text_span/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/text_span/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_up_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_up_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_up_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ban_hang_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ban_hang_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ban_hang_ui/.pub" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

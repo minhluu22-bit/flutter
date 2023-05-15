@@ -42,7 +42,7 @@ class CategoryPage extends StatelessWidget {
               decoration: const BoxDecoration(
                   color: AppColors.purple,
                   image: DecorationImage(
-                      image: AssetImage('assets/BG-Gradient.png'),
+                      image: AssetImage('assets/images/BG-Gradient.png'),
                       alignment: Alignment.bottomCenter,
                       fit: BoxFit.cover)),
               child: SafeArea(
@@ -53,7 +53,7 @@ class CategoryPage extends StatelessWidget {
                       children: [
                         Row(
                           children: [
-                            Image.asset('assets/Back Icon.png'),
+                            Image.asset('assets/images/Back Icon.png'),
                             const SizedBox(
                               width: 12,
                             ),
@@ -116,17 +116,17 @@ class CategoryPage extends StatelessWidget {
                             background: AppColors.pink,
                             title: 'Music Class',
                             subtitle: '10 Course',
-                            image: 'assets/Music Course.png'),
+                            image: 'assets/images/Music Course.png'),
                         ShortBottomCourseCard(
                             background: AppColors.purple,
                             title: 'Animation',
                             subtitle: '12 Course',
-                            image: 'assets/Animation.png'),
+                            image: 'assets/images/Animation.png'),
                         ShortTopCourseCard(
                             background: AppColors.red,
                             title: 'Writing Class',
                             subtitle: '20 Course',
-                            image: 'assets/Writing Class.png')
+                            image: 'assets/images/Writing Class.png')
                       ],
                     ),
                     Column(
@@ -135,17 +135,17 @@ class CategoryPage extends StatelessWidget {
                             background: AppColors.green,
                             title: '3D Illustration',
                             subtitle: '110 Course',
-                            image: 'assets/3D Illustration.png'),
+                            image: 'assets/images/3D Illustration.png'),
                         LongCourseCard(
                             background: AppColors.orange,
                             title: 'Design Class',
                             subtitle: '15 Course',
-                            image: 'assets/Design Course.png'),
+                            image: 'assets/images/Design Course.png'),
                         ShortBottomCourseCard(
                             background: AppColors.green,
                             title: 'Programmers',
                             subtitle: '20 Course',
-                            image: 'assets/Programers.png')
+                            image: 'assets/images/Programers.png')
                       ],
                     )
                   ],
